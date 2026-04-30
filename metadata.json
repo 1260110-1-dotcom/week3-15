@@ -1,0 +1,6 @@
+{
+  "name": "自習室預約系統",
+  "description": "一個專業的自習室預約系統，支持座位選擇、時段預約和分類篩選。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
